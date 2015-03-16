@@ -1,0 +1,1 @@
+SQLJet is a pure Java version of a popular SQLite database engine. SQLJet is a software library that provides API that enables Java application to access and modify mostly any of SQLite-created and managed databases.
